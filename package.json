@@ -1,0 +1,17 @@
+{
+  "name": "NodeSafeConfig",
+  "version": "1.0.0a",
+  "description": "A TypeSafe style configuration for node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hartbenjar12/nodeSafeConfig"
+  },
+  "author": "Ben Jarman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/gohart/Mr.Wickles/issues"
+  },
+  "dependencies": {
+  }
+}
