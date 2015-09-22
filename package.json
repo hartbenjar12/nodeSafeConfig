@@ -1,6 +1,6 @@
 {
   "name": "node_safe_config",
-  "version": "1.0.0-a",
+  "version": "1.0.1",
   "description": "A TypeSafe style configuration for node.js",
   "main": "index.js",
   "repository": {
