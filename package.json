@@ -1,17 +1,25 @@
 {
-  "name": "NodeSafeConfig",
-  "version": "1.0.0a",
+  "name": "node_safe_config",
+  "version": "1.0.0-a",
   "description": "A TypeSafe style configuration for node.js",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hartbenjar12/nodeSafeConfig"
+    "url": "git+https://github.com/hartbenjar12/nodeSafeConfig.git"
   },
   "author": "Ben Jarman",
-  "license": "Apache 2.0",
+  "license": "(MIT OR Apache-2.0)",
   "bugs": {
     "url": "https://github.com/gohart/Mr.Wickles/issues"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "homepage": "https://github.com/hartbenjar12/nodeSafeConfig#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "configuration",
+    "management",
+    "typesafe"
+  ]
 }
